@@ -1,0 +1,9 @@
+.container{
+  padding: 16px;
+}
+.header{
+  text-align: right;
+  width: 100%;
+  color: rgb(89, 89, 166);
+  cursor: pointer;
+}
